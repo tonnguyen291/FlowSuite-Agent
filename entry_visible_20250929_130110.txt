@@ -1,0 +1,110 @@
+Screen Options
+Select a different form
+DT IMAGE RX Checkout (No RX)
+Edit
+Settings
+Entries
+Preview
+DT IMAGE RX Checkout (No RX) : Entry # 29993
+show empty fields
+Product
+XL Vise Z87 Clear (NO RX)
+Quantity
+1
+Employee Information
+Approval Confirmation
+IN PLACING THIS ORDER, I ATTEST THAT I HAVE RECEIVED APPROVAL FROM MY MANAGER TO ORDER THESE GLASSES
+Employee ID
+628250
+Site Number
+ILC 08 1414 2341 W Algonquin Rd Algonquin IL 60102-9404 847-458-2774
+First Name
+Payton
+Last Name
+Wessels
+Birthdate
+09/19/2004
+Size Consent
+I understand that the Vise XL size is designed for larger head sizes and have checked the measurements to ensure it will fit properly.
+Vise XL size confirmation:
+
+6 3/8” width
+2 1/8” depth (top of frame to bottom of frame)
+Employee Contact Information
+Phone
+(815) 528-4472
+Employee Email
+paytonwessels19@gmail.com
+Signature
+Payton Wessels
+Order Status
+Received
+Entry
+Move up
+Move down
+Toggle panel: Entry
+Entry Id: 29993
+
+Submitted on: 2025/09/29 at 12:08 pm
+
+User IP: 75.146.110.61
+
+Embed Url: .../dt-non-rx-checkout/?...
+
+Move to Trash | Mark as Spam
+Print entry
+Move up
+Move down
+Toggle panel: Print entry
+Include Notes
+
+Print
+Klaviyo Feeds
+Move up
+Move down
+Toggle panel: Klaviyo Feeds
+DTC RX Buyers Edit Resubmit
+DTC Non RX Buyers Edit Resubmit
+Google Sheets
+Send to Google Sheets
+Notifications
+Move up
+Move down
+Toggle panel: Notifications
+Testing
+
+KC - Order Recieved
+
+KC - Order Processed
+
+KC - Order Shipped
+
+KC - Order Recieved ADMIN
+
+KC - Order Recieved - TEST
+
+
+
+Notes
+Move up
+Move down
+Toggle panel: Notes
+      Bulk action
+     Delete
+     Klaviyo 
+added 53 minutes ago
+Error subscribing profile to list: Ue4AsU Authentication credentials were not provided. Missing or invalid private key.
+Klaviyo 
+added 53 minutes ago
+Error subscribing profile to list: WdSYKD Authentication credentials were not provided. Missing or invalid private key.
+KC - Order Recieved (ID: 59a5e9217d84a) 
+added 53 minutes ago
+WordPress successfully passed the notification email to the sending server.
+KC - Order Recieved ADMIN (ID: 5a98b2af76967) 
+added 53 minutes ago
+WordPress successfully passed the notification email to the sending server.
+   
+                                Also email this note to
+                                                                    paytonwessels19@gmail.com
+                                                                Marketing Data
+Need Marketing Insight? , Go Pro!
